@@ -1,4 +1,4 @@
-## Local project installation (TODO)
+## Local project installation
 Setting up a Docker Apache Web Server using Vagrant on a Ubuntu VM (VirtualBox)
 
 #### Initializing
