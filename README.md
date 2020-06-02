@@ -1,5 +1,5 @@
 ## Environment installation
-Setting up a Docker Apache Web Server using Vagrant on a Ubuntu VM (VirtualBox)
+Setting up an Ubuntu environment with Docker using Vagrant (require Oracle VM VirtualBox)
 
 #### Initializing
 ```
