@@ -2,6 +2,7 @@
 Setting up an Ubuntu environment with Docker using Vagrant (require Oracle VM VirtualBox)
 
 #### Initializing
+This provisionning allow you to automatically install **docker** & **docker-compose**
 ```
 vagrant init ubuntu/trusty64
 ```
