@@ -96,8 +96,8 @@ Vagrant.configure("2") do |config|
     echo "Provisioning virtual machine..."
       apt-get update
 
-#      apt-get -y upgrade
-#      apt-get -f -y install
+      echo "Docker"
+        sudo apt-get -f -y --force-yes install docker-ce=18.06.1~ce~3-0~ubuntu
 
   SHELL
 
